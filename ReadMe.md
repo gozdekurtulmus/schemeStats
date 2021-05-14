@@ -1,8 +1,7 @@
 # CENG212 Concepts of Programming Languages
 
-**Assignment #**
+## Assignment ##
 
-**Due date:** 24.04.
 
 In this assignment, you're expected to
 
